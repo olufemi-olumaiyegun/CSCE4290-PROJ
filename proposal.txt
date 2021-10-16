@@ -1,0 +1,13 @@
+
+Text Summarization project
+
+Teams members:
+	Olufemi Olumaiyegun 
+
+Motivation and Significance : I get to use skills I gain in the course to create something I can use to make myself productive daily. 
+It’ll be useful for summarizing articles I come across on the internet which will save me time. 
+
+Objectives and features : The trained model should be able to receive either a link to an article or a text document and summarize the key points of the article 
+
+
+
